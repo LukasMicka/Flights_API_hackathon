@@ -4,8 +4,6 @@ import './flight.scss';
 
 export default class Flight extends React.Component {
 
-    /* Duration.fromObject({this.props.dTime}).toFormat("hh:mm:ss"); */
-
     render() {
         return (
           <>
